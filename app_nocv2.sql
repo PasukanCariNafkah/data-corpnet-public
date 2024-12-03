@@ -15407,7 +15407,7 @@ ALTER TABLE `user_upstreams`
 --
 -- Constraints for dumped tables
 --
-SET GLOBAL FOREIGN_KEY_CHECKS=0;
+SET FOREIGN_KEY_CHECKS=0;
 --
 -- Constraints for table `histories`
 --
